@@ -14,8 +14,8 @@
     --background-start-rgb: 0, 0, 0;
     --background-end-rgb: 0, 0, 0;
   }
-
-  /* Own Theme */
+}
+  /* Own Theme
   .theme-swiss {
     --color-text-base: 255, 255, 255;
     --color-text-muted: 254, 202, 202;
@@ -34,7 +34,7 @@
     --color-button-accent-hover: 55, 79, 5;
     --color-button-muted: 212, 255, 122;
   }
-}
+} */
 
 body {
   color: rgb(var(--foreground-rgb));
